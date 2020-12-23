@@ -9,6 +9,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 12/22/20 [Hackerrank - Placements (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/Placements_hackerrank.sql)
 
+12/23/20 [Project Euler - problems 1 and 2](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_1-2.ipynb)
+
 
 ## Week 1 (12/13/20-12/19/20)
 
