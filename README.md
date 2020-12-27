@@ -3,7 +3,7 @@
 In this repo I will try to do at least a few programming exercises a week.
 
 
-## Week 2 (12/21/20-12/25/20)
+## Week 2 (12/20/20-12/26/20)
 
 12/21/20 [Advent of Code Day 1 - Products of sums of 2020 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day1.ipynb)
 
@@ -13,6 +13,7 @@ In this repo I will try to do at least a few programming exercises a week.
 
 12/24/20 [Advent of Code Day 2 - Passwords (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day2.ipynb)
 
+12/26/20 [Project Euler - problem 4 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_4.ipynb)
 
 ## Week 1 (12/13/20-12/19/20)
 
