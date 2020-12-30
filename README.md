@@ -6,6 +6,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 12/28/20 [Advent of Code Day 3 - Trees (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day3.ipynb)
 
+12/29/20 [LeetCode Trips and Users (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/leetcode_trips_and_users_sql.sql)
+
 
 ## Week 2 (12/20/20-12/26/20)
 
