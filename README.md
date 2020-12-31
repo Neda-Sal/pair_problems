@@ -8,6 +8,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 12/29/20 [LeetCode Trips and Users (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/leetcode_trips_and_users_sql.sql)
 
+12/30/20 [Project Euler - problems 5 and 6 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_5-6.ipynb)
+
 
 ## Week 2 (12/20/20-12/26/20)
 
