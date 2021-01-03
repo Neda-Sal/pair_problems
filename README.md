@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 4 (1/3/21- 1/9/21)
+
+1/3/21 [Project Euler - problem 7 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_7.ipynb)
+
+
 ## Week 3 (12/27/20- 1/2/21)
 
 12/28/20 [Advent of Code Day 3 - Trees (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day3.ipynb)
