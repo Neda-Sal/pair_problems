@@ -12,7 +12,7 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/6/21 [Project Euler - problem 9 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_9.ipynb)
 
-1/7/21 [Advent of Code Day 4 - Boarding Pass (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day5.ipynb)
+1/7/21 [Advent of Code Day 5 - Boarding Pass (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day5.ipynb)
 
 
 
