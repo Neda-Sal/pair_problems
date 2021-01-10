@@ -14,6 +14,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/7/21 [Advent of Code Day 5 - Boarding Pass (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/advent_of_code_day5.ipynb)
 
+1/9/21 [Pandas Exercises - Chipotle (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/pandas_exercises/chipotle.ipynb)
+
 
 
 ## Week 3 (12/27/20- 1/2/21)
