@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 5 (1/10/21- 1/16/21)
+
+1/10/21 [Project Euler - problem 10 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_10.ipynb)
+
+
 ## Week 4 (1/3/21- 1/9/21)
 
 1/3/21 [Project Euler - problem 7 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/project_euler_7.ipynb)
