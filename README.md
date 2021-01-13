@@ -6,6 +6,10 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/10/21 [Project Euler - problem 10 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_10.ipynb)
 
+1/11/21 [w3resource Lambda Functions (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/w3_lambda_funcs.ipynb)
+
+1/12/21 [SQLZoo Movie Joins (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_movie_joins.sql)
+
 
 ## Week 4 (1/3/21- 1/9/21)
 
