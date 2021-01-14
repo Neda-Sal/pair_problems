@@ -10,6 +10,9 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/12/21 [SQLZoo Movie Joins (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_movie_joins.sql)
 
+1/13/21 [Project Euler - problem 12 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_12.ipynb)
+
+
 
 ## Week 4 (1/3/21- 1/9/21)
 
