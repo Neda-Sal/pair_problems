@@ -14,6 +14,7 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/14/21 [Advent of Code Day 6 - Custom Customs (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/advent_of_code_day6.ipynb)
 
+1/15/21 [Project Euler - problem 13 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_13.ipynb)
 
 
 ## Week 4 (1/3/21- 1/9/21)
