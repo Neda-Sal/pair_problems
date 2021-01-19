@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 6 (1/17/21- 1/23/21)
+
+1/19/21 [SQLZoo Teacher NULL (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_teacher_NULL.sql)
+
+
 ## Week 5 (1/10/21- 1/16/21)
 
 1/10/21 [Project Euler - problem 10 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_10.ipynb)
