@@ -8,6 +8,7 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/21/21 [Project Euler - problem 14 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_14.ipynb)
 
+1/23/21 [Project Euler - problem 16 (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/project_euler_16.ipynb)
 
 
 ## Week 5 (1/10/21- 1/16/21)
