@@ -2,6 +2,10 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 7 (1/24/21- 1/30/21)
+
+1/25/21 [Edabit - A Circle and Two Squares (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_a_circle_and_two_squares.ipynb)
+
 ## Week 6 (1/17/21- 1/23/21)
 
 1/19/21 [SQLZoo Teacher NULL (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_teacher_NULL.sql)
