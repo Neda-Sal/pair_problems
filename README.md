@@ -6,6 +6,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/25/21 [Edabit - A Circle and Two Squares (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_a_circle_and_two_squares.ipynb)
 
+1/26/21 [Edabit - Sum of the Missing Numbers (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_sum_missing_numbers.ipynb)
+
 ## Week 6 (1/17/21- 1/23/21)
 
 1/19/21 [SQLZoo Teacher NULL (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_teacher_NULL.sql)
