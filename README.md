@@ -8,6 +8,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/26/21 [Edabit - Sum of the Missing Numbers (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_sum_missing_numbers.ipynb)
 
+1/27/21 [Edabit - Quadratic Equation (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_quadratic_equation.ipynb)
+
 ## Week 6 (1/17/21- 1/23/21)
 
 1/19/21 [SQLZoo Teacher NULL (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/SQLZoo_teacher_NULL.sql)
