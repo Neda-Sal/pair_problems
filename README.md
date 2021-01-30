@@ -12,6 +12,9 @@ In this repo I will try to do at least a few programming exercises a week.
 
 1/28/21 [LeetCode - Swapping Nodes in a Linked List (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/leetcode_swapping_nodes_linked_list.ipynb)
 
+1/29/21 [Edabit - Morse Code (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_morse_code.ipynb)
+
+
 
 ## Week 6 (1/17/21- 1/23/21)
 
