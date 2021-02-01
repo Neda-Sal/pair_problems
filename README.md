@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 8 (1/31/21- 2/6/21)
+
+1/31/21 [Edabit - Rug_Design (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_rug_design.ipynb)
+
+
 ## Week 7 (1/24/21- 1/30/21)
 
 1/25/21 [Edabit - A Circle and Two Squares (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_a_circle_and_two_squares.ipynb)
@@ -13,7 +18,6 @@ In this repo I will try to do at least a few programming exercises a week.
 1/28/21 [LeetCode - Swapping Nodes in a Linked List (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/leetcode_swapping_nodes_linked_list.ipynb)
 
 1/29/21 [Edabit - Morse Code (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_morse_code.ipynb)
-
 
 
 ## Week 6 (1/17/21- 1/23/21)
