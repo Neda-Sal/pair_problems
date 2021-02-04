@@ -4,7 +4,9 @@ In this repo I will try to do at least a few programming exercises a week.
 
 ## Week 8 (1/31/21- 2/6/21)
 
-1/31/21 [Edabit - Rug_Design (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_rug_design.ipynb)
+1/31/21 [Edabit - Rug Design (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_rug_design.ipynb)
+
+2/3/21 [Edabit - Sports Player Classes (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_sports_classes.ipynb)
 
 
 ## Week 7 (1/24/21- 1/30/21)
