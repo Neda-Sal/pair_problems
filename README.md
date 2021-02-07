@@ -8,6 +8,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 2/3/21 [Edabit - Sports Player Classes (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_sports_classes.ipynb)
 
+2/6/21 [Pandas Exercises - Occupation (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/pandas_exercises/Occupation.ipynb)
+
 
 ## Week 7 (1/24/21- 1/30/21)
 
