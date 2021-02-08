@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 9 (2/7/21- 2/13/21)
+
+2/7/21 [Cards Against Humanity black card generator (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/cards_against_humanity_generator.ipynb)
+
+
 ## Week 8 (1/31/21- 2/6/21)
 
 1/31/21 [Edabit - Rug Design (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_rug_design.ipynb)
