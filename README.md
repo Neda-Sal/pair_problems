@@ -6,6 +6,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 2/15/21 [Edabit - Cup Swapping (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_cup_swapping.ipynb)
 
+2/16/21 [HackerRank - New Companies (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/hackerrank_new_companies.sql)
+
 
 ## Week 9 (2/7/21- 2/13/21)
 
