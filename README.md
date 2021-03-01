@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 11 (2/28/21- 3/6/21)
+
+2/28/21 [Edabit - Palindrome Smallest Seed (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_palindrome_smallest_seed.ipynb)
+
+
 ## Week 10 (2/14/21- 2/20/21)
 
 2/15/21 [Edabit - Cup Swapping (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_cup_swapping.ipynb)
