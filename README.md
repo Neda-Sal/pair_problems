@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 12 (3/7/21- 3/13/21)
+
+3/8/21 [Edabit - Truncatable Primes (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_truncatable_primes.ipynb)
+
+
 ## Week 11 (2/28/21- 3/6/21)
 
 2/28/21 [Edabit - Palindrome Smallest Seed (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_palindrome_smallest_seed.ipynb)
