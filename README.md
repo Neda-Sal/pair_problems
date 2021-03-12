@@ -8,6 +8,8 @@ In this repo I will try to do at least a few programming exercises a week.
 
 3/9/21 [Hackerrank - Leaderboard (SQL)](https://github.com/Neda-Sal/pair_problems/blob/main/SQL/hackerrank_leaderboard.sql)
 
+3/11/21 [Edabit - Smallest Number (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_smallest_number.ipynb)
+
 
 ## Week 11 (2/28/21- 3/6/21)
 
