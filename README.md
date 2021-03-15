@@ -2,6 +2,11 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 13 (3/14/21- 3/20/21)
+
+3/14/21 [Egg Drop (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/egg_drop.ipynb) (also.. Happy pi day!)
+
+
 ## Week 12 (3/7/21- 3/13/21)
 
 3/8/21 [Edabit - Truncatable Primes (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_truncatable_primes.ipynb)
