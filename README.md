@@ -2,6 +2,10 @@
 
 In this repo I will try to do at least a few programming exercises a week.
 
+## Week 14 (3/21/21- 3/27/21)
+
+3/24/21 [Edabit - Mastermind (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/edabit_code_mastermind.ipynb)
+
 ## Week 13 (3/14/21- 3/20/21)
 
 3/14/21 [Egg Drop (Python)](https://github.com/Neda-Sal/pair_problems/blob/main/Python/egg_drop.ipynb) (also.. Happy pi day!)
